@@ -1,0 +1,24 @@
+.rectangle {
+  width: 700px;
+  height: 130px;
+  justify-content: space-between;
+  color: rgb(0, 0, 0);
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  padding: 15px 40px;
+}
+.reviews-wrapper {
+  width: 53%;
+  margin: 0 auto;
+}
+.h1 {
+  text-align: center;
+}
+.text {
+  width: 70%;
+}
+img {
+  width: 120px;
+  height: 100px;
+}
